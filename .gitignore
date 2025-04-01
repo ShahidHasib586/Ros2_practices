@@ -1,0 +1,16 @@
+# Ignore build and install artifacts
+build/
+install/
+log/
+.colcon/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# VSCode/IDE config
+.vscode/
+.idea/
+
+# ROS 2 testing output
+*.test.py
