@@ -85,7 +85,7 @@ This workspace was created while learning and practicing:
 **Shahid Ahamed Hasib**  
 🎓 Erasmus Mundus Scholar  
 📬 shahidhasib586@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/shahidhasib586)
+🌐 [LinkedIn](https://www.linkedin.com/in/shahid-ahamed-hasib-040591118/)
 
 ---
 
