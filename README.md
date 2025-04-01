@@ -92,8 +92,3 @@ This workspace was created while learning and practicing:
 ## 📝 License
 
 This project is licensed under the **Apache-2.0 License**.
-```
-
----
-
-Let me know if you want a shorter version, or want to include badges, gifs, or a turtlesim drawing demo section later.
